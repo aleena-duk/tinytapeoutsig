@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+ ReLu and sigmoid activation functions are included
 
 ## How to test
 
-Explain how to use your project
-
+For ReLu:The output is same as the input value if it is positive and zero otherwise.
+For Sigmoid:Used for binary classification and predict the probability as output.
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+A voltage source at analog pin 1 and analog pin 4 which is an output of an ANN
